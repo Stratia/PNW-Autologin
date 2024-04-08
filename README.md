@@ -1,4 +1,6 @@
 # PNW Auto Login
+For the online video game Politcs and War
+Link: https://politicsandwar.com/ 
 ## How to Use
 **Example of Manual Use**
 ![Logo](Manual_Example.png)
